@@ -60,7 +60,7 @@ Dir(argv[1], recursive)
 
 ## Тестирование
 
-Все вышеуказанные сущности были покрыты тестами, с помощью фреймворка [Google Test](http://google.github.io/googletest). Часть тестов уже написана.
+Все вышеуказанные сущности были покрыты тестами, с помощью фреймворка [Google Test](http://google.github.io/googletest).
 
 ## NB
 
